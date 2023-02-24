@@ -1,1 +1,1 @@
-#Sakarya Universitesi Veri Yapıları C++ ödevlerim
+Sakarya Universitesi Veri Yapıları C++ ödevlerim
